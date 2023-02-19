@@ -8,7 +8,7 @@
 // react-native-reanimated
 // react-native-safe-area-context
 // react-native-screens
-
+// demo
 import 'react-native-gesture-handler'
 import {AppRegistry} from 'react-native';
 import App from './App';
